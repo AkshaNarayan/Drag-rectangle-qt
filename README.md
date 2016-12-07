@@ -1,0 +1,1 @@
+# Drag-rectangle-qt
